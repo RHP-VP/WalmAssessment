@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountryData</string>
+    <string name="try_again">Something went wrong please try again later</string>
+    <string name="success">Success</string>
+</resources>
