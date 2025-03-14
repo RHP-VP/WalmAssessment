@@ -31,7 +31,7 @@ In each table cell, show the country's "name", "region", "code" and "capital" in
   |                                     |
   ---------------------------------------
  
-The user should be able to scroll thru the entire list of countries.
+The user should be able to scroll throughu the entire list of countries.
 The limitation of this Application is that a compulsory internet connection is required for the working of the system.
 
 Application Demo
